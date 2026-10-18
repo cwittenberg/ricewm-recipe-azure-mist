@@ -1,0 +1,37 @@
+{
+  "schema": "ricewm.recipe-marketplace/v1",
+  "name": "Azure Mist",
+  "version": "1.0.0",
+  "summary": "Windows 11 alike recipe. Light counterpart of the current Azure Dusk recipe: mist-blue and pearl surfaces, azure accents, matching wallpaper, native controls and the same compact frosted taskbar.",
+  "license": "CC0-1.0",
+  "credits": "Anonymous",
+  "artifact": {
+    "path": "look-agent-azure-mist-light.rice.json",
+    "bytes": 6335538,
+    "sha256": "4e2e308a99309c20e3b73dd2f228b8d152ca5820e94b98cf2678e5cdc8aed067"
+  },
+  "media": [
+    {
+      "role": "icon",
+      "path": "media/icon.webp",
+      "alt": "Azure Mist recipe icon",
+      "width": 256,
+      "height": 256,
+      "license": "MIT",
+      "credits": "Original RiceWM sharing icon.",
+      "sha256": "da6d0ef5efd3ed7a0f557578dacc4aefadc8b7583c3de9d15b4092cdea4254e8",
+      "bytes": 3424
+    },
+    {
+      "role": "screenshot",
+      "path": "media/screenshot-1.webp",
+      "alt": "Azure Mist — desktop capture with sharing dialogs and menus omitted.",
+      "width": 1864,
+      "height": 899,
+      "license": "Depicted assets retain their original licences",
+      "credits": "RiceWM desktop capture. Wallpaper and other artwork credits are retained in the recipe.",
+      "sha256": "c301ea68be1d117ff73fbcb581c8ba952c78f7276a645399587c91f551e120dc",
+      "bytes": 441168
+    }
+  ]
+}
